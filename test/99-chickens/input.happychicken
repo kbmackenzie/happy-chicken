@@ -1,0 +1,94 @@
+push 8
+push 4
+rooster
+BBQ
+push 3
+peck
+push 3
+pick 0
+chicken
+add
+push 23
+push 5
+rooster
+BBQ
+add
+push 10
+BBQ
+add
+push 2
+peck
+push 1
+pick 0
+push 1
+compare
+push 21
+fr
+push 1
+pick 0
+push 0
+compare
+push 33
+fr
+push 1
+pick 0
+push 2
+pick 0
+add
+push 1
+pick 0
+push 1
+fox
+push 1
+peck
+push 1
+pick 0
+push 1
+fox
+push 0
+push 23
+fox
+fr
+push 1
+push 3
+pick 0
+add
+chicken
+add
+push 10
+BBQ
+add
+push 11
+pick 2
+push 10
+push 11
+rooster
+push 1
+add
+BBQ
+add
+push 2
+pick 0
+add
+push 1
+peck
+push 2
+peck
+push 2
+pick 0
+push 4
+fr
+push 1
+pick 0
+axe
+push 2
+pick 0
+push 1
+pick 0
+add
+push 1
+push 0
+push 25
+fox
+fr
+axe

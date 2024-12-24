@@ -1,0 +1,118 @@
+push 0
+pick 2
+push 0
+push 1
+compare
+chicken
+add
+add
+push 4
+peck
+push 8
+push 4
+rooster
+BBQ
+push 5
+peck
+push 5
+pick 0
+push 6
+peck
+push 0
+push 1
+fox
+push 3
+peck
+push 0
+push 2
+peck
+push 0
+push 1
+fox
+push 2
+pick 0
+compare
+push 0
+push 14
+fox
+fr
+push 8
+push 8
+rooster
+push 4
+rooster
+push 2
+pick 0
+compare
+push 0
+push 27
+fox
+fr
+push 1
+push 3
+pick 0
+add
+push 3
+peck
+push 2
+pick 0
+push 1
+fox
+push 3
+pick 0
+pick 1
+push 2
+pick 4
+compare
+push 0
+push 51
+fox
+fr
+push 2
+add
+push 3
+pick 0
+pick 1
+push 5
+pick 4
+compare
+push 0
+push 66
+fox
+fr
+push 1
+fox
+push 2
+pick 0
+rooster
+push 12
+pick 4
+push 3
+pick 0
+pick 1
+compare
+push 0
+push 85
+fox
+fr
+push 5
+pick 0
+push 3
+pick 0
+pick 1
+push 1
+fr
+axe
+push 2
+pick 0
+add
+push 6
+pick 0
+add
+push 5
+peck
+push 1
+push 0
+push 109
+fox
+fr

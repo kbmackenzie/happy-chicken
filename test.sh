@@ -18,7 +18,7 @@ for TEST in $TEST_LIST; do
 
   # Compare program output with expected output through 'diff'.
   # When the two differ, this means a test failed.
-  $SCRIPT "${TEST_PATH}/input.happy" | diff --color - "${TEST_PATH}/expect.chicken"
+  $SCRIPT "${TEST_PATH}/input.happychicken" | diff --color - "${TEST_PATH}/expect.chicken"
 
   if [ $? -ne 0 ]; then
     FAIL_COUNT=$((FAIL_COUNT + 1))
