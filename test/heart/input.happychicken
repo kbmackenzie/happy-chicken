@@ -1,0 +1,22 @@
+# Comments are allowed, too!
+chicken
+
+# Write ' '
+push 3
+push 10
+rooster
+push 2
+add
+BBQ
+add
+
+# Write '<'
+push 6
+push 10
+rooster
+BBQ
+add
+
+# Write '3'
+push 3
+add
