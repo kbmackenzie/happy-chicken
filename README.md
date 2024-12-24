@@ -1,8 +1,8 @@
-Happy Chicken is a readable variation of the [Chicken esoteric language][1]. It compiles to valid Chicken source code. It's designed to make it a little bit easier to write silly Chicken programs.
+Happy Chicken is a readable variation of the [Chicken esoteric language][1]. It compiles to valid Chicken source code. It's designed to make writing silly Chicken programs a little easier.
 
 Its implementation is a tiny, self-contained, POSIX-compliant **Awk** script. It should run out of the box on most Linux distros. 🐔
 
-Its syntax consists of one instruction per line. Some instructions have operands. Instruction names are kept accurate to the [Chicken esolang's VM specification][2]:
+Its syntax consists of one instruction per line. Some instructions have operands. Instruction names are kept accurate to the [Chicken esolang's VM specification][2].
 
 ```bash
 # Comments are allowed, too!
