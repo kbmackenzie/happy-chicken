@@ -33,7 +33,7 @@ function is_number(value) {
   next
 }
 
-# Whitespace and empty lines are allowed.
+# Whitespace and empty lines should also be skipped.
 /^[[:blank:]]*$/ {
   next
 }
@@ -63,7 +63,7 @@ function is_number(value) {
 }
 
 ($1 in instructions) {
-  opcode = instructions[$2]
+  opcode = instructions[$1]
   print chicken(opcode)
   next
 }
