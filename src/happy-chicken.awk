@@ -38,10 +38,6 @@ function is_number(value) {
   next
 }
 
-($1 in instructions) {
-  opcode = instructions[$1]
-}
-
 ($1 == "push") {
   if (!is_number($2)) {
     syntax_error("expected numeric operand for 'push' instruction, got: " ($2 || "<nothing>"))
