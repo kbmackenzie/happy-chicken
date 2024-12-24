@@ -55,9 +55,6 @@ function is_number(value) {
   if (!is_number($2)) {
     syntax_error("expected numeric operand for 'pick' isntruction, got: " ($2 || "<nothing>"))
   }
-  if ($2 < 0 || $2 > 1) {
-    syntax_error("invalid operand for 'pick' instruction: " $2)
-  }
   opcode  = instructions[$1]
   operand = $2
   print chicken(opcode)
